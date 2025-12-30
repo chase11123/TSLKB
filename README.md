@@ -7,7 +7,7 @@ To address reviewer concerns regarding reproducibility, we provide the following
 📁 **Repository Structure**  
   
 KTIR/  
-├── hyperparameter/ # Hyperparameter selection reports with experimental results  
+├── hyperparameters/ # Hyperparameter selection reports with experimental results  
 ├── llm_prompts/ # LLM prompt implementations (Python files)  
 ├── knowledge_trees/ # Legal knowledge tree data (nodes & edges)  
 └── README.md # This file  
