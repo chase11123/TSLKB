@@ -4,7 +4,7 @@ This repository contains the supplementary materials for the paper "A Knowledge 
 
 To address reviewer concerns regarding reproducibility, we provide the following four key components in separate directories:  
 
-📁 Repository Structure  
+📁 **Repository Structure**  
   
 KTIR/  
 ├── hyperparameters/ # Hyperparameter selection reports with experimental results  
@@ -32,13 +32,14 @@ llm_generation.py:Defines the prompt for final answer generation, which combines
 The legal knowledge base consists of 18 concept trees, each rooted at a Chinese legal statute (e.g., Copyright Law, Patent Law). Each tree is provided as:  
 nodes.csv  
 edges.csv  
+  
 ✅ Maximum tree depth: 8  
 🔗 Source: Official legal textbooks endorsed by China’s Ministry of Justice (aligned with JEC-QA dataset)  
   
 All node texts have been normalized for terminology consistency and manually validated by legal experts.  
 
 
-📊 Evaluation Datasets  
+📊 **Evaluation Datasets**  
   
 Experiments conducted on:  
 JEC-QA: Largest Chinese legal MCQA benchmark ([GitHub](https://github.com/thunlp/jec-qa))  
@@ -48,11 +49,12 @@ We do not redistribute these datasets. Please obtain them from official sources.
 
 
 
-📬 Contact  
+📬 **Contact**  
   
 For questions or collaboration:  
 Mei Ma – gs.mma24@gzu.edu.cn  
 Engineering Research Center of Text Computing & Cognitive Intelligence, Guizhou University, China  
-  
+
+    
 ✨ KTIR enables interpretable, knowledge-guided reasoning by fusing structured legal ontologies with large language models.  
 
