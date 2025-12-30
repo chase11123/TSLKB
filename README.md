@@ -18,21 +18,17 @@ We conducted systematic ablation studies to select two critical hyperparameters:
 (1) Candidate Chain Number Selection  
 (2) Relevance Score Threshold Selection  
 
-
-
 💬 2. LLM Prompts (llm_prompts/)  
   
 This directory contains two Python files that encapsulate the exact prompts used during inference:  
 llm_evaluation.py:Implements the prompt for assessing the relevance of a knowledge chain w.r.t. a given legal question.   
 llm_generation.py:Defines the prompt for final answer generation, which combines the original question and the top-relevant knowledge chains retrieved by KTIR.  
 
-
 🌳 3. Knowledge Tree Data (knowledge_trees/)  
   
 The legal knowledge base consists of 18 concept trees, each rooted at a Chinese legal statute (e.g., Copyright Law, Patent Law). Each tree is provided as:  
 nodes.csv  
 edges.csv  
-  
 ✅ Maximum tree depth: 8  
 🔗 Source: Official legal textbooks endorsed by China’s Ministry of Justice (aligned with JEC-QA dataset)  
   
