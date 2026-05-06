@@ -13,7 +13,7 @@ KTIR/
   
 📊 1. Datasets (datasets/)  
   
-Experiments are conducted on two authoritative Chinese legal benchmarks:
+Experiments are conducted on two authoritative Chinese legal benchmarks:  
 JEC-QA: Largest Chinese legal MCQA benchmark ([GitHub](https://github.com/thunlp/jec-qa))  
 DISC-Law-Eval: Real bar exam questions (2015–2022) ([GitHub](https://github.com/FudanDISC/DISC-LawLLM))  
 
