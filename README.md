@@ -7,7 +7,7 @@ To improve experimental reproducibility, we provide the following two key compon
 📁 **Repository Structure**  
   
 KTIR/  
-├── datasets/ # (Raw dataset introduction)
+├── datasets/ # (Raw dataset introduction)  
 ├── knowledge_trees/ # Legal knowledge tree data (nodes & edges)  
 └── README.md # This file  
   
