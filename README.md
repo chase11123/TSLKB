@@ -7,11 +7,11 @@ To improve experimental reproducibility, we provide the following two key compon
 📁 **Repository Structure**  
   
 KTIR/  
-├── datasets/ # (Raw dataset introduction)  
+├── datasets/ # (dataset introduction)  
 ├── knowledge_trees/ # Legal knowledge tree data (nodes & edges)  
 └── README.md # This file  
   
-📊 1. Datasets (datasets/)  
+📊 1. LMCQA Datasets (datasets/)  
   
 Experiments are conducted on two authoritative Chinese legal benchmarks:  
 JEC-QA: Largest Chinese legal MCQA benchmark ([GitHub](https://github.com/thunlp/jec-qa))  
