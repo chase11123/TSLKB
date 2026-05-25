@@ -28,13 +28,6 @@ edges.csv
 All node texts have been normalized for terminology consistency and manually validated by legal experts.  
 
 
-
-📬 **Contact**  
-  
-For questions or collaboration:  
-Mei Ma – gs.mma24@gzu.edu.cn  
-Engineering Research Center of Text Computing & Cognitive Intelligence, Guizhou University, China  
-
     
 ✨ KTIR enables interpretable, knowledge-guided reasoning by fusing hierarchical legal knowledge with large language models.  
 
